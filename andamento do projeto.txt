@@ -1,0 +1,7 @@
+Com as informacoes das colunas que sao me passadas pelo dataset,
+
+busquei fazer algumas analises e observacoes dos dados, 
+o primeiro grafico mostra uma analise geral da situacao dos estudantes
+o segundo grafico mostra uma analise da situacao de estudantes aprovados e reprovados
+o terceiro grafico e quarto, mostra uma analise separada de estudantes aprovados e reprovados vs dispensado e cancelado
+o quarto grafico mostra analise através das disciplinas da unidade curricular.
