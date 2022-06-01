@@ -1,0 +1,15 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.1.14/
+cloud_firestore_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.14/
+firebase_analytics=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-9.1.7/
+firebase_analytics_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.4.0+12/
+firebase_auth=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.17/
+firebase_auth_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.14/
+firebase_core=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.16.0/
+firebase_core_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.4/
+firebase_database=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.14/
+firebase_database_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.0+13/
+libphonenumber=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.2/
+libphonenumber_plugin=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3/
+libphonenumber_web=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/libphonenumber_web-0.2.0+1/
+search_choices=/home/artillis/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/search_choices-2.0.20/

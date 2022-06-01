@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695673792572",
+    "firebase_url": "https://cellular-hybrid-314520-default-rtdb.firebaseio.com",
+    "project_id": "cellular-hybrid-314520",
+    "storage_bucket": "cellular-hybrid-314520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695673792572:android:cf8dee0557e0054f753b39",
+        "android_client_info": {
+          "package_name": "com.example.projeto_sigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695673792572-fluv735i03dnffodas249bl146pe7po1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMDqBbiWCNSsH312uzSG5Qx1Z70hCR9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695673792572-fluv735i03dnffodas249bl146pe7po1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
